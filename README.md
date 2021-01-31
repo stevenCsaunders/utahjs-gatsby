@@ -9,9 +9,9 @@
 
 <p>The goal of this project was to refactor the Utah JS website to use a headless CMS and modern JS frameworks/libraries. The site is built on:  </p>
   <p align="center">
-    <img alt="Sanity" src="https://www.sanity.io/static/images/opengraph/social.png" width="100" />
+    <img alt="Sanity" src="https://www.sanity.io/static/images/opengraph/social.png" width="200" />
     <br>
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="50" />
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="100" />
 
 </p>
 
